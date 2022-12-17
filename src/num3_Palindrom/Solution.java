@@ -1,4 +1,4 @@
-package num2_add_two_num;
+package num3_Palindrom;
 
 import java.util.Scanner;
 
@@ -34,7 +34,6 @@ class Solution {
             } catch (NumberFormatException e) {
                 System.out.println("no");
             }
-
         }
     }
 }
